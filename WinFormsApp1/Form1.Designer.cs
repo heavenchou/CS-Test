@@ -37,7 +37,7 @@ namespace WinFormsApp1
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(340, 249);
+            this.button1.Location = new System.Drawing.Point(143, 251);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 29);
             this.button1.TabIndex = 0;
@@ -48,7 +48,7 @@ namespace WinFormsApp1
             // checkBox1
             // 
             this.checkBox1.AutoSize = true;
-            this.checkBox1.Location = new System.Drawing.Point(340, 158);
+            this.checkBox1.Location = new System.Drawing.Point(340, 176);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(104, 23);
             this.checkBox1.TabIndex = 1;
@@ -58,7 +58,7 @@ namespace WinFormsApp1
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(340, 42);
+            this.label1.Location = new System.Drawing.Point(143, 100);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(51, 19);
             this.label1.TabIndex = 2;
